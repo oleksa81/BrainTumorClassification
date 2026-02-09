@@ -1,4 +1,4 @@
-# BrainTumorClassification
+# Brain Tumor Classification
 Classification of brain tumor types with the following cases: 
 (1) no tumor, 
 (2) glioma, 
