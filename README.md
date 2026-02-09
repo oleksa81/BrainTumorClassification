@@ -9,4 +9,4 @@ The aim is to achieve a reasonable accuracy and preserve computational power cos
 
 
 Dataset used for this project: https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
-Which contains 7023 MRIs. It combines the other 3 datasets: figshare, SARTAJ, and Br35H. 
+which contains 7023 MRIs. It combines the other 3 datasets: figshare, SARTAJ, and Br35H. 
